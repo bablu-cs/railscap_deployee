@@ -71,4 +71,4 @@ group :test do
 end
 
 
-gem "pg", "~> 1.2.3"
+gem "pg", "~> 1.2.0"

@@ -1,4 +1,4 @@
-server '172-31-29-208', port: 22, roles: [:web, :app, :db], primary: true
+server '3.142.121.176', port: 22, roles: [:web, :app, :db], primary: true
 
 set :repo_url,        'git@github.com:bablu-cs/railscap_deployee.git'
 set :application,     'rails_deployee'
