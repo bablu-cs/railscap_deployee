@@ -81,4 +81,4 @@ production:
   <<: *default
   database: rails_cap_deploye_production
   username: postgres
-  password: postgres
+  password: root
